@@ -1,0 +1,51 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+section {
+  display: flex;
+}
+h1 {
+  color: gray;
+  font-size: 60px;
+}
+h3 {
+  color: gray;
+}
+#textcolor {
+  color: rgb(245, 91, 35);
+}
+#text {
+  margin-top: 150px;
+  font-weight: bolder;
+}
+.divsize {
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 185px;
+}
+.landing {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.btn {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(orangered, tomato);
+  padding: 15px 40px;
+  border-radius: 20px;
+}
+
+.imagesize {
+  height: 700px;
+  width: 520px;
+}
+.aboutme {
+  margin-top: 15px;
+  margin-left: 0px;
+  background-image: url(images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: max-content;
+  background-position: center;
+}
